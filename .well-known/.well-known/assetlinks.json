@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.blok.sporttimer",
+    "sha256_cert_fingerprints": [
+      "5C:9D:62:AA:2B:F4:22:5E:AA:A6:59:10:B0:B2:38:9C:77:1B:87:7F:40:31:BE:D0:6B:64:91:04:DE:4B:92:3D"
+    ]
+  }
+}]
