@@ -3,8 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.blok.sporttimer",
-    "sha256_cert_fingerprints": [
-      "5C:9D:62:AA:2B:F4:22:5E:AA:A6:59:10:B0:B2:38:9C:77:1B:87:7F:40:31:BE:D0:6B:64:91:04:DE:4B:92:3D"
-    ]
+    "sha256_cert_fingerprints": ["95:52:C9:75:7A:5F:21:6B:F2:B0:7E:77:AE:DD:8F:F2:7B:D0:0F:6E:B6:AF:47:4A:24:3B:65:3F:B0:0C:A5:E8"]
   }
 }]
